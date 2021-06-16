@@ -1,0 +1,32 @@
+body {
+  margin: 20;
+  padding: 20;
+}
+
+.screen {
+  height: 85vh;
+  width: 100%;
+  display: flex;
+}
+
+img {
+  width: 45%;
+  height: 45%;
+  border: 5px solid #000;
+  cursor: pointer;
+  border-radius: 45px;
+}
+
+h1 {
+  margin: 50;
+  margin-left: 40%;
+}
+
+.shop {
+  position: absolute;
+}
+.sports {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
